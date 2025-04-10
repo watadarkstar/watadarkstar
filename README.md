@@ -11,7 +11,6 @@ I’m an experienced Software Engineer with over 10 years of experience, special
 - **Cineplex**  
 - **Kik**  
 - **Mountain Equipment Co-op**  
-- **Ligonier Ministries**  
 - *And many more...*
 
 Beyond individual projects, I’m also an active open source contributor to the **React**, **React Native**, and **React Native IDE** communities. I enjoy diving deep into these ecosystems and contributing enhancements that help other developers build better products.
