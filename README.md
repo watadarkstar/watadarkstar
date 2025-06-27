@@ -1,6 +1,6 @@
 # > I'm  Adrian 👨🏻‍💻⚛️
 
-I’m an experienced Software Engineer with over 10 years of experience, specializing in Front-End Engineering, with a focus on **React**, **React Native**, **TypeScript**, and **GraphQL**. Over the years, I’ve had the opportunity to develop web and mobile apps for a range of reputable companies, including:
+I’m an experienced Software Engineer with over 10 years of experience, specializing in Front-End Engineering, with a focus on **React**, **React Native**, **TypeScript**, and **GraphQL**. Over the years, I’ve had the opportunity to develop web and mobile apps for a range of companies, including:
 
 - **Patio** (Stanford)  
 - **Flyreel** (Google-backed)  
