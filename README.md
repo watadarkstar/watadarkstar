@@ -13,7 +13,7 @@ I’m an experienced Software Engineer with over 10 years of experience, special
 - **Mountain Equipment Co-op**  
 - *And many more...*
 
-Beyond individual projects, I’m also an active open source contributor to the **React**, **React Native**, **Parlant (AI)**, and **React Native IDE** communities. I enjoy diving deep into these ecosystems and contributing enhancements that help other developers build better products.
+I’m also an active open source contributor to the **React**, **React Native**, **Parlant (AI)**, and **React Native IDE** communities. I enjoy diving deep into these ecosystems and contributing enhancements that help other developers build better products.
 
 If you're curious about my work, I invite you to check out my portfolio at [https://adriancarolli.surge.sh/](https://adriancarolli.surge.sh/). Feel free to reach out—I'm always open to new opportunities and collaborations.
 
