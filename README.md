@@ -21,4 +21,4 @@ If you're curious about my work, I invite you to check out my portfolio at [http
 
 ### Want your company's logo here ☝️? [sponsor me!](https://github.com/sponsors/watadarkstar)
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=watadarkstar)](https://github.com/watadarkstar/github-readme-stats)
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=watadarkstar)](https://github.com/watadarkstar/)
