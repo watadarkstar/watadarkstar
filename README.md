@@ -1,24 +1,29 @@
-# > I'm  Adrian 👨🏻‍💻⚛️
+# 👨🏻‍💻 Adrian Carolli
 
-I’m an experienced Software Engineer with over 10 years of experience, specializing in Front-End Engineering, with a focus on **React**, **React Native**, **TypeScript**, and **GraphQL**. Over the years, I’ve had the opportunity to develop AI, web and mobile apps for a range of companies, including:
+Front End Engineer specializing in React, React Native, TypeScript, and GraphQL.
 
-- **Patio** (Stanford)  
-- **Flyreel** (Google-backed)  
-- **Penta Medical** (YC S18)  
-- **Fitbit**  
-- **Vanco**  
-- **Wave Accounting**  
-- **Cineplex**  
-- **Kik**  
-- **Mountain Equipment Co-op**  
-- *And many more...*
+I build web, mobile, and AI powered products with 10+ years of experience across startups and large scale companies including:
 
-I’m also an active open source contributor to the **React**, **React Native**, **Parlant (AI)**, and **React Native IDE** communities. I enjoy diving deep into these ecosystems and contributing enhancements that help other developers build better products.
+- Patio (Stanford)
+- Flyreel (Google backed)
+- Penta Medical (YC S18)
+- Fitbit
+- Wave Accounting
+- Cineplex
+- Kik
+- MEC
 
-If you're curious about my work, I invite you to check out my portfolio at [https://adriancarolli.surge.sh/](https://adriancarolli.surge.sh/). Feel free to reach out—I'm always open to new opportunities and collaborations.
+I contribute to open source in the React and React Native ecosystem and enjoy improving developer tools and AI driven workflows.
 
-<a href="https://www.g2i.co?utm_source=watadarkstar"><img src="https://user-images.githubusercontent.com/3059371/94947757-2cf3e700-04ac-11eb-832a-8c7ddd822bef.jpeg" width="100px" /></a><a href="https://invertase.io?utm_source=watadarkstar"><img src="https://avatars.githubusercontent.com/u/13588260?s=200&v=4" width="100px" /></a><a href="https://stacktiger.co?utm_source=watadarkstar"><img src="https://user-images.githubusercontent.com/3059371/130081331-06771555-1aa4-4ef5-a956-40f69f4cc276.png" width="100px" /></a>
+🌐 Portfolio: https://adriancarolli.surge.sh
 
-### Want your company's logo here ☝️? [sponsor me!](https://github.com/sponsors/watadarkstar)
+Open to interesting engineering roles and collaborations.
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=watadarkstar)](https://github.com/watadarkstar/)
+---
+
+<a href="https://www.g2i.co?utm_source=watadarkstar"><img src="https://user-images.githubusercontent.com/3059371/94947757-2cf3e700-04ac-11eb-832a-8c7ddd822bef.jpeg" width="100px" /></a>
+<a href="https://invertase.io?utm_source=watadarkstar"><img src="https://avatars.githubusercontent.com/u/13588260?s=200&v=4" width="100px" /></a>
+<a href="https://stacktiger.co?utm_source=watadarkstar"><img src="https://user-images.githubusercontent.com/3059371/130081331-06771555-1aa4-4ef5-a956-40f69f4cc276.png" width="100px" /></a>
+
+### Sponsor
+Want your logo here? [Sponsor me](https://github.com/sponsors/watadarkstar)
